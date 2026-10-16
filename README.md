@@ -1,6 +1,6 @@
 # ShiftBot
 
-> Часть портфолио: [сайт-портфолио](https://auryxn.github.io) — репозиторий сайта [site-admin](https://github.com/auryxn/site-admin).
+> Часть портфолио: [auryxn.codes](https://auryxn.codes) — репозиторий сайта [site-admin](https://github.com/auryxn/site-admin).
 
 > Telegram-бот для краткосрочных подработок: админ публикует смены, работники записываются в пару кликов.
 
